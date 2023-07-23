@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "myReading (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "myReading (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
